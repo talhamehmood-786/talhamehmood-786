@@ -3,7 +3,7 @@
 <h2 align="center">A passionate frontend developer from Pakistan</h3>
 
 <img align="right" alt="coding" width="400" 
-src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw2fvbC7GN4gu1bYvg5rFOvK&ust=1741764268660000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKDt5u2_gYwDFQAAAAAdAAAAABAE">
+src=https://camo.githubusercontent.com/a77455838b07a894fd287af592135c3cf136430622757e6b761df1c069201376/68747470733a2f2f632e74656e6f722e636f6d2f4e4f594633663832625f6741414141432f70726f6772616d6d65722e676966>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=talhamehmood-786&label=Profile%20views&color=0e75b6&style=flat" alt="talhamehmood-786" /> </p>
 

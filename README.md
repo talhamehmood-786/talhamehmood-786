@@ -24,5 +24,5 @@ src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranw
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=talhamehmood-786&show_icons=true&locale=en" alt="talhamehmood-786" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=talhamehmood-786&" alt="talhamehmood-786" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=talhamehmood-786/></p>
 
